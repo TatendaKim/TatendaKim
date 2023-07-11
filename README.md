@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TatendaKim
 - 👀 I’m interested in building projects in Java or Python
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on building games, mobile applications, and software as a service
+- 💞️ I’m looking to collaborate on building games, mobile applications, and softwares
 - 📫 How to reach me tatendakbeni@gmail.com
 
 <!---
